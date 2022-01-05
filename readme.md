@@ -1,23 +1,22 @@
-# _{Application Name}_
+# _ODESZA Website_
 
-#### By _**{List of contributors}**_
+#### By _**Daniel Lindsey and Mikah Mathews**_
 
-#### _{Brief description of application}_
+#### _This website will be for the band ODESZA_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _CSS_
+* _Markdown_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_This website will have links to music videos, upcoming shows, and a merch section_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
+* _To view this page, please navigate https://mikah-mathews.github.io/band-site/_
 * _to list setup instructions_
 * _in a simple_
 * _easy-to-understand_
