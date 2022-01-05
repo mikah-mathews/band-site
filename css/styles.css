@@ -5,8 +5,17 @@
   float:left;
   text-align: left;
   background-color: aliceblue;
+  width:10%;
+  height:500px;
+  padding: 10px;
 }
 a {
   font-size: 15px;
+}
 
+.mainContent {
+  width:60%;
+  height:500px;
+  background-color: rgb(241, 252, 255);
+  padding:10px;
 }
