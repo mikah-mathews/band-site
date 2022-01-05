@@ -1,0 +1,12 @@
+.menu {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:purple;
+  font-style:bold;
+  float:left;
+  text-align: left;
+  background-color: aliceblue;
+}
+a {
+  font-size: 15px;
+
+}
